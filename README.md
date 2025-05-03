@@ -15,7 +15,7 @@ An undergraduate Software Engineering student, captivated by the art of creation
 - Striving to write code that is not only functional but also elegant and maintainable.
 
 #### 📚 Sharing the Journey
-- My personal blog is under construction! It will be my corner of the internet to share project insights, technical tutorials, and basically anything I feel passionate about saying. Stay tuned!
+- My personal corner of the web is now online at [**touhikari.top**](https://touhikari.top)! 🚀 It's currently a blank canvas, but I'm thrilled to start filling it with project stories, coding tutorials, learning experiences, and anything else I'm passionate about. Pop over for a visit – content is on the way!
 
 Feel free to connect! Let's explore the endless possibilities of technology together. ✨
 
