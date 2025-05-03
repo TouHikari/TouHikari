@@ -1,4 +1,4 @@
-<img src="https://count.owo.cab/@capoo-2?name=capoo-2&theme=capoo-2&padding=7&offset=0&align=center&scale=0.8&pixelated=0&darkmode=0">
+<img src="https://count.owo.cab/@TouHikari?name=TouHikari&theme=capoo-2&padding=7&offset=0&align=center&scale=0.8&pixelated=0&darkmode=0">
 
 ## Hi there! 👋 I'm TouHikari
 
