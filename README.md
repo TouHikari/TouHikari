@@ -32,4 +32,4 @@ Feel free to connect! Let's explore the endless possibilities of technology toge
 
 Github Stats|Top Langs
 -|-
-[![info](https://github-readme-stats.vercel.app/api?username=TouHikari&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TouHikari&layout=compact&langs_count=8&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![info](https://github-readme-stats-hazel-two-30.vercel.app/api?username=TouHikari&count_private=true&show_icons=true&line_height=20&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-git-master-touhikaris-projects.vercel.app/api/top-langs/?username=TouHikari&count_private=true&layout=compact&langs_count=8&card_width=445&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
