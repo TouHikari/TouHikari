@@ -1,4 +1,4 @@
-_This page has been loaded <img src="https://count.owo.cab/@TouHikari?name=TouHikari&theme=capoo-2&padding=7&offset=0&align=center&scale=0.8&pixelated=0&darkmode=0"> times!_
+_This page has been loaded ![TouHikari](https://count.owo.cab/@TouHikari?name=TouHikari&theme=capoo-2&padding=7&offset=0&align=center&scale=0.5&pixelated=0&darkmode=auto) times!_
 
 ## Hi there! 👋 I'm TouHikari
 
