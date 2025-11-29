@@ -6,8 +6,8 @@ An undergraduate Software Engineering student, captivated by the art of creation
 
 #### 🌱 Currently Exploring & Growing
 
-- Honing my problem-solving abilities using **C**, **Python** and **Vue 3**.
-- Expanding my horizons by delving into **C++** and **Java**.
+- Honing my problem-solving abilities using **C**, **Python**, **Vue.js 3** and **Java**.
+- Expanding my horizons by delving into **C++** and **React.js**.
 - Intrigued by the potential of **Artificial Intelligence** and the foundations of **System-level programming**.
 - Actively exploring the diverse fields of software development, with a growing interest in both **Front-end** and **Back-end** engineering. My journey is one of continuous learning and discovery! 🚀
 
