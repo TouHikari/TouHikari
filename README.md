@@ -1,4 +1,4 @@
-_This page has been loaded ![TouHikari](https://count.owo.cab/@TouHikari?name=TouHikari&theme=capoo-2&padding=7&offset=0&align=center&scale=0.5&pixelated=0&darkmode=auto) times!_
+_This page has been loaded <img src="https://count.owo.cab/@TouHikari?name=TouHikari&theme=capoo-2&padding=7&offset=0&align=center&scale=0.5&pixelated=0&darkmode=auto"> times!_
 
 ## Hi there! 👋 I'm TouHikari
 
@@ -32,10 +32,10 @@ Feel free to connect! Let's explore the endless possibilities of technology toge
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 
-|                                                                                               GitHub Stats                                                                                                |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [![info](https://github-readme-stats-hazel-two-30.vercel.app/api?username=TouHikari&count_private=true&show_icons=true&card_width=500&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
+<div align="center">
+  <img align="center"  alt="TouHikari's GitHub Stats" src="https://github-readme-stats.touhikari.top/api?username=TouHikari&count_private=true&show_icons=true&card_width=500&theme=radical" />
 
-|                                                                                                               Top Langs                                                                                                                |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [![Top Langs](https://github-readme-stats-hazel-two-30.vercel.app/api/top-langs/?username=TouHikari&count_private=true&layout=compact&langs_count=8&card_width=500&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
+  <span align="center" style="margin:0.5em;"><span />
+
+  <img align="center" alt="TouHikari's Top Langs" src="https://github-readme-stats.touhikari.top/api/top-langs/?username=TouHikari&count_private=true&layout=compact&langs_count=8&card_width=500&theme=radical" />
+</div>
