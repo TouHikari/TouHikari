@@ -39,4 +39,8 @@ Feel free to connect! Let's explore the endless possibilities of technology toge
   <span align="center" style="margin:0.5em;"><span />
 
   <img align="center" alt="TouHikari's Top Langs" src="https://github-readme-stats-six-ochre-79.vercel.app/api/top-langs/?username=TouHikari&count_private=true&layout=compact&langs_count=8&card_width=500&theme=radical" />
+
+  <span align="center" style="margin:0.5em;"><span />
+  
+  [![TouHikari's github activity graph](https://github-readme-activity-graph-lilac.vercel.app/graph?username=TouHikari&theme=react-dark)](https://github.com/TouHikari/github-readme-activity-graph)
 </div>
