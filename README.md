@@ -16,18 +16,19 @@
 
 ## TouHikari's here; find me in Code Nexus
 
-- [[TouHikari@localhost ~]$ | 欢迎来到 TouHikari 的个人数字空间](https://touhikari.top/)
+- **TouHikari's blog**: [[TouHikari@localhost ~]$ | 欢迎来到 TouHikari 的个人数字空间](https://touhikari.top/)
 
   <a href="https://touhikari.top/"><img alt="Website" src="https://img.shields.io/badge/Web-touhikari.top-FE428E?style=flat-square&logo=googlechrome&logoColor=white"></a>
 
-- [拾星阁 | 知识在此汇成高塔](https://notes.owo.cab/)
+- **TouHikari's note taking website**: [拾星阁 | 知识在此汇成高塔](https://notes.owo.cab/)
 
   <a href="https://notes.owo.cab/"><img alt="Notes" src="https://img.shields.io/badge/Notes-notes.owo.cab-BD93F9?style=flat-square&logo=readthedocs&logoColor=white"></a>
 
 ## What TouHikari has done
 
-- [专注工具类 APP | HarmonyOS NEXT | **Airplan Mode 飞行计划** | 累计2万+安装](https://airplanmode.com/)
-- [Roguelike 游戏 | 自研 ECS 引擎 | **XT the Dungeoner**](https://github.com/XT-the-Dungeoner/xt-the-dungeoner)
+- [**Airplan Mode 飞行计划**](https://airplanmode.com/): 专注工具类 APP | HarmonyOS NEXT | 累计 2 万+ 安装
+
+- [**XT the Dungeoner**](https://github.com/XT-the-Dungeoner/xt-the-dungeoner): Roguelike 游戏 | 自研 ECS 引擎 | JavaFX
 
 <p align="center">
   <img alt="TouHikari's GitHub Stats" src="https://github-readme-stats-six-ochre-79.vercel.app/api?username=TouHikari&count_private=true&show_icons=true&card_width=300&border_radius=10&theme=radical&v=20261025" />
